@@ -35,6 +35,30 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "ice cream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Cupcakes",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "milk",
+      "category": "Dairy",
+      "isInCart": true,
+      "id": 17
+    },
+    {
+      "name": "lactose-free milk",
+      "category": "Dairy",
+      "isInCart": true,
+      "id": 18
     }
   ]
 }
